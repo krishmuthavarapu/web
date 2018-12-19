@@ -271,8 +271,8 @@ h1 {
  .header-top{
      float: left;
      width: 100%;
-     padding: 28px 0px 28px 0px;
-}
+     padding: 10px 0px 10px 0px;
+    }
  .header-top .container{
      padding: 0px;
 }
@@ -286,6 +286,7 @@ h1 {
      float: right;
 }
  .header-info{
+    margin-top: 36px;
      float: left;
      width: 100%;
 }
